@@ -32,5 +32,5 @@ namespace im_window
 	};
 
 	void
-	dockspace(Dockspace_Node layout, bool *setup_done = nullptr);
+	dockspace(Dockspace_Node layout, bool *setup_layout = nullptr);
 }
